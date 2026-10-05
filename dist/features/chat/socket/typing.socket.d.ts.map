@@ -1,0 +1,1 @@
+{"version":3,"file":"typing.socket.d.ts","sourceRoot":"","sources":["../../../../src/features/chat/socket/typing.socket.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,WAAW,CAAC;AACnC,OAAO,EAAE,UAAU,EAAE,MAAM,gBAAgB,CAAC;AAC5C,OAAO,EAAE,oBAAoB,EAAE,MAAM,oDAAoD,CAAC;AAE1F,wBAAgB,oBAAoB,CAClC,MAAM,EAAE,UAAU,EAClB,EAAE,EAAE,MAAM,EACV,WAAW,EAAE,oBAAoB,GAChC,IAAI,CASN"}
